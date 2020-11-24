@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="b1727927-f235-42be-a2df-df9e79abd812" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (1.5.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>I-Minds - 2nd Edition</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="content" id="i0" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="OEBPS/Text/cover.html"/>
+    </navPoint>
+    <navPoint class="content" id="i1" playOrder="2">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="OEBPS/Text/title.html"/>
+    </navPoint>
+    <navPoint class="content" id="i2" playOrder="3">
+      <navLabel>
+        <text>Copyright Page</text>
+      </navLabel>
+      <content src="OEBPS/Text/copyright.html"/>
+    </navPoint>
+    <navPoint class="content" id="i3" playOrder="4">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="OEBPS/Text/contents.html"/>
+    </navPoint>
+    <navPoint class="content" id="i4" playOrder="5">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="OEBPS/Text/intro.html"/>
+    </navPoint>
+    <navPoint class="content" id="i5" playOrder="6">
+      <navLabel>
+        <text>Part 1: How and Why</text>
+      </navLabel>
+      <content src="OEBPS/Text/part01.html"/>
+      <navPoint class="content" id="i6" playOrder="7">
+        <navLabel>
+          <text>1. The Shift</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch01_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i7" playOrder="8">
+        <navLabel>
+          <text>2. Technological Integration Versus Technological Interference</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch02_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i8" playOrder="9">
+        <navLabel>
+          <text>3. The Pull</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch03_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i9" playOrder="10">
+        <navLabel>
+          <text>4. The Power of Sound: History and Biology</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch04_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i10" playOrder="11">
+        <navLabel>
+          <text>5. The Biological Science — What’s Really Going on in Our Brains?</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch05_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i11" playOrder="12">
+        <navLabel>
+          <text>6. Boxed In — Anxiety in the Masses</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch06_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i12" playOrder="13">
+        <navLabel>
+          <text>7. From Digital Natives to i-Kids</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch07_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i13" playOrder="14">
+        <navLabel>
+          <text>8. The Story of Alpha</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch08_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i14" playOrder="15">
+        <navLabel>
+          <text>9. The Narrowing of Minds</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch09_split_000.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="content" id="i15" playOrder="16">
+      <navLabel>
+        <text>Part 2: Process and Development</text>
+      </navLabel>
+      <content src="OEBPS/Text/part02.html"/>
+      <navPoint class="content" id="i16" playOrder="17">
+        <navLabel>
+          <text>10. Of Systems and Process</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch10_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i17" playOrder="18">
+        <navLabel>
+          <text>11. Back to Biology: Epigenetics and Vestibular Regulation</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch11_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i18" playOrder="19">
+        <navLabel>
+          <text>12. From i-Kids to i-Brains</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch12_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i19" playOrder="20">
+        <navLabel>
+          <text>13. Learning, Play, and Parenting — Conflicting Needs in a Busy, Busy World</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch13_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i20" playOrder="21">
+        <navLabel>
+          <text>14. Socialization — Child’s Play</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch14_split_000.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="content" id="i21" playOrder="22">
+      <navLabel>
+        <text>Part 3: Education, Games, Power, and Politics</text>
+      </navLabel>
+      <content src="OEBPS/Text/part03.html"/>
+      <navPoint class="content" id="i22" playOrder="23">
+        <navLabel>
+          <text>15. The Good, the Bad, and the Neutral</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch15_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i23" playOrder="24">
+        <navLabel>
+          <text>16. Of Games and Gaming</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch16_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i24" playOrder="25">
+        <navLabel>
+          <text>17. The Good, the Bad, and the Ugly — Esports and the Business of Gaming</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch17_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i25" playOrder="26">
+        <navLabel>
+          <text>18. Beyond Illusions — Spatial Planning, Arbitrary Learning, and Geolocation Skills</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch18_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i26" playOrder="27">
+        <navLabel>
+          <text>19. Breaking the Trance</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch19_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i27" playOrder="28">
+        <navLabel>
+          <text>20. i-Tech and Healthcare — To Care or i-Care</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch20_split_000.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="content" id="i28" playOrder="29">
+      <navLabel>
+        <text>Part 4: Trust, Governance, and the Attention Ecconomy</text>
+      </navLabel>
+      <content src="OEBPS/Text/part04.html"/>
+      <navPoint class="content" id="i29" playOrder="30">
+        <navLabel>
+          <text>21. i-Trust and i-Privacy — Social, Economic, and Political Manipulation</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch21_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i30" playOrder="31">
+        <navLabel>
+          <text>22. Governance Part One — Self-Governance and the Rise of the Attention Economy</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch22_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i31" playOrder="32">
+        <navLabel>
+          <text>23. Governance Part Two — Crossing the Floor and the Perils of Protection</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch23_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i32" playOrder="33">
+        <navLabel>
+          <text>24. The Attention Economy</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch24_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i33" playOrder="34">
+        <navLabel>
+          <text>25. Governance and Safety — Electromagnetic Explorations</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch25_split_000.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="content" id="i34" playOrder="35">
+      <navLabel>
+        <text>Part 5: The Interpersonal</text>
+      </navLabel>
+      <content src="OEBPS/Text/part05.html"/>
+      <navPoint class="content" id="i35" playOrder="36">
+        <navLabel>
+          <text>26. Community, Communication, Digital Mediation, and Friendship</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch26_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i36" playOrder="37">
+        <navLabel>
+          <text>27. Sex and Sexuality Part A — Adult Play</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch27_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i37" playOrder="38">
+        <navLabel>
+          <text>28. Sex and Sexuality Part B — Brain Wiring and the Death of Intimacy</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch28_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i38" playOrder="39">
+        <navLabel>
+          <text>29. Sex and Sexuality Part C — From Children to Elders, Communication, and Lifestyle Solutions</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch29_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i39" playOrder="40">
+        <navLabel>
+          <text>30. Benefactors of Change</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch30_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i40" playOrder="41">
+        <navLabel>
+          <text>31. i-Addiction and i-Life — The Beginnings of a New World</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch31_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i41" playOrder="42">
+        <navLabel>
+          <text>32. The Tipping Point</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch32_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i42" playOrder="43">
+        <navLabel>
+          <text>33. Our Future Our Selves</text>
+        </navLabel>
+        <content src="OEBPS/Text/ch33_split_000.html"/>
+      </navPoint>
+      <navPoint class="content" id="i43" playOrder="44">
+        <navLabel>
+          <text>Epilogue: So What to Do?</text>
+        </navLabel>
+        <content src="OEBPS/Text/epilog_split_000.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="content" id="i44" playOrder="45">
+      <navLabel>
+        <text>Notes</text>
+      </navLabel>
+      <content src="OEBPS/Text/notes.html"/>
+    </navPoint>
+    <navPoint class="content" id="i45" playOrder="46">
+      <navLabel>
+        <text>Index</text>
+      </navLabel>
+      <content src="OEBPS/Text/index.html"/>
+    </navPoint>
+    <navPoint class="content" id="i46" playOrder="47">
+      <navLabel>
+        <text>About the Author</text>
+      </navLabel>
+      <content src="OEBPS/Text/author.html"/>
+    </navPoint>
+    <navPoint class="content" id="i47" playOrder="48">
+      <navLabel>
+        <text>About New Society Publishers</text>
+      </navLabel>
+      <content src="OEBPS/Text/publishers.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
