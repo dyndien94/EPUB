@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="EbookISBN" prefix="schema: http://schema.org/ rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xml:lang="en-US" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="title">Hyperfocus</dc:title>
+    <meta property="title-type" refines="#title">main</meta>
+    <meta property="display-seq" refines="#title">1</meta>
+    <dc:title id="subtitle">How to Be More Productive in a World of Distraction</dc:title>
+    <meta property="title-type" refines="#subtitle">subtitle</meta>
+    <meta property="display-seq" refines="#subtitle">2</meta>
+    <meta content="Viking" name="imprint"/>
+    <dc:creator id="creator1">Chris Bailey</dc:creator>
+    <meta property="display-seq" refines="#creator1">1</meta>
+    <meta property="role" refines="#creator1" scheme="marc:relators">aut</meta>
+    <meta property="file-as" refines="#creator1">Bailey, Chris</meta>
+    <dc:publisher>Penguin Publishing Group</dc:publisher>
+    <dc:language>en-US</dc:language>
+    <meta property="dcterms:modified">2020-11-23T16:24:27Z</meta>
+    <dc:date>2018-08-28</dc:date>
+    <dc:source id="SourceISBN">9780525522232</dc:source>
+    <meta content="Adobe InDesign 12.1 unZip_INDD_ePub.app 1.6" name="generator"/>
+    <meta content="2018-07-11" name="created"/>
+    <meta name="cover" content="cover.jpg"/>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <dc:identifier id="EbookISBN">9780525522249</dc:identifier>
+    <dc:rights>Copyright © 2018 by Chris Bailey</dc:rights>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessModeSufficient">textual,visual</meta>
+    <meta property="schema:accessibilityFeature">displayTransformability</meta>
+    <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessibilityFeature">bookmarks</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+    <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;b&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;A practical guide to managing your attention&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;#8212;the most powerful resource you have to get stuff done, become more creative, and live a meaningful life&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/b&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;Our attention has never been as overwhelmed as it is today. Many of us recognize that our brains are unable to multitask but feel compelled to do so anyway, as we easily become uncomfortable and try to cram as much into every moment of our lives as we can. &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;i&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;Hyperfocus&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/i&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt; provides profound insights into how we can best manage our attention in a distressed world. &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;br&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;The most recent neuroscientific research on attention reveals that our brain has two powerful modes that can be unlocked when we use our attention well: a focused mode (hyperfocus), which is the foundation for being highly productive, and a creative mode (scatterfocus), which enables us to connect ideas in novel ways. &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;i&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;Hyperfocus&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/i&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt; helps readers unlock each of the two mental modes so they can concentrate more deeply, think more clearly, and work and...</dc:description>
+    <meta content="1.4.0" name="Sigil version"/>
+  </metadata>
+  <manifest>
+    <item id="cover" href="xhtml/01_Cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB" href="xhtml/02_Praise_for_Christ_Bai.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-1" href="xhtml/03_Also_by_Chris_Bailey.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-2" href="xhtml/04_Title_Page.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-3" href="xhtml/05_Copyright.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-4" href="xhtml/06_Dedication.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-5" href="xhtml/07_Contents.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-6" href="xhtml/08_Chapter_0_Why_Focus_M.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-7" href="xhtml/09_Chapter_0_5_How_to_Be.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-8" href="xhtml/10_Part_I_Hyperfocus.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-9" href="xhtml/11_Chapter_1_Switching_O.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-10" href="xhtml/12_Chapter_2_The_Limits_.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-11" href="xhtml/13_Chapter_3_The_Power_o.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-12" href="xhtml/14_Chapter_4_Taming_Dist.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-13" href="xhtml/15_Chapter_5_Making_Hype.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-14" href="xhtml/16_Part_II_Scatterfocus.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-15" href="xhtml/17_Chapter_6_Your_Brain_.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-16" href="xhtml/18_Chapter_7_Recharging_.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-17" href="xhtml/19_Chapter_8_Connecting_.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-18" href="xhtml/20_Chapter_9_Collecting_.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-19" href="xhtml/21_Chapter_10_Working_To.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-20" href="xhtml/22_Acknowledgments.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-21" href="xhtml/23_Notes.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-22" href="xhtml/24_Index.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-23" href="xhtml/25_About_the_Author.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="toc" href="navDoc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css"/>
+    <item id="Art_01_Four_Type_of_Tasks_2.jpg" href="image/Art_01_Four_Type_of_Tasks_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_02_Attentional_Space_2_2.jpg" href="image/Art_02_Attentional_Space_2_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_03_Multitasking_With_Habits_2.jpg" href="image/Art_03_Multitasking_With_Habits_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_04_Attentional_Space_2.jpg" href="image/Art_04_Attentional_Space_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_05_When_Multitasking_don-t_work_2.jpg" href="image/Art_05_When_Multitasking_don_t_work_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_06_When_Multitasking_don-t_work_2_2.jpg" href="image/Art_06_When_Multitasking_don_t_work_2_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_07_Working_With_intention_2.jpg" href="image/Art_07_Working_With_intention_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_08_Distracted_Interrupted_2.jpg" href="image/Art_08_Distracted_Interrupted_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_09_Attentional_Residue_2.jpg" href="image/Art_09_Attentional_Residue_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_10_Attentional_Space_Task_2.jpg" href="image/Art_10_Attentional_Space_Task_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_11_Hyperfocus_2.jpg" href="image/Art_11_Hyperfocus_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_12_Number_of_Things_to_focus_2.jpg" href="image/Art_12_Number_of_Things_to_focus_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_13_Four_Types_of_Distractions_Empty_2.jpg" href="image/Art_13_Four_Types_of_Distractions_Empty_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_14_Four_Types_of_Distractions_2.jpg" href="image/Art_14_Four_Types_of_Distractions_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_15_Four_Types_of_Distractions_Interruptions_2.jpg" href="image/Art_15_Four_Types_of_Distractions_Interruptions_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_16_Untamed_Distractions_2.jpg" href="image/Art_16_Untamed_Distractions_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_17_Meditation_2.jpg" href="image/Art_17_Meditation_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_18_40_Seconds_line_2.jpg" href="image/Art_18_40_Seconds_line_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_19_Scatterfocus_2.jpg" href="image/Art_19_Scatterfocus_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_20_WhereMind_Wanders_2.jpg" href="image/Art_20_WhereMind_Wanders_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_21_Habitual_Scatterfocus_2.jpg" href="image/Art_21_Habitual_Scatterfocus_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_22_Boredom_Graph_2.jpg" href="image/Art_22_Boredom_Graph_2.jpg" media-type="image/jpeg"/>
+    <item id="art_23_2.jpg" href="image/art_23_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_24_Attentional_Space_Over_Time_2.jpg" href="image/Art_24_Attentional_Space_Over_Time_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_25_Scatterfocus_2_2.jpg" href="image/Art_25_Scatterfocus_2_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_26_Entertainment_Graph_2.jpg" href="image/Art_26_Entertainment_Graph_2.jpg" media-type="image/jpeg"/>
+    <item id="Art_27_Entertainment_Graph_2_2.jpg" href="image/Art_27_Entertainment_Graph_2_2.jpg" media-type="image/jpeg"/>
+    <item id="cover.jpg" href="image/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="page_158_2.jpg" href="image/page_158_2.jpg" media-type="image/jpeg"/>
+    <item id="page_171_2.jpg" href="image/page_171_2.jpg" media-type="image/jpeg"/>
+    <item id="page_17_3.jpg" href="image/page_17_3.jpg" media-type="image/jpeg"/>
+    <item id="page_17_4.jpg" href="image/page_17_4.jpg" media-type="image/jpeg"/>
+    <item id="page_2_2.jpg" href="image/page_2_2.jpg" media-type="image/jpeg"/>
+    <item id="page_47_2.jpg" href="image/page_47_2.jpg" media-type="image/jpeg"/>
+    <item id="page_vii_2.jpg" href="image/page_vii_2.jpg" media-type="image/jpeg"/>
+    <item id="page_xi_2.jpg" href="image/page_xi_2.jpg" media-type="image/jpeg"/>
+    <item id="x9780525522249_EPUB-6_fn1" href="xhtml/26_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-9_fn1" href="xhtml/27_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-10_fn1" href="xhtml/28_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-10_fn2" href="xhtml/29_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-10_fn3" href="xhtml/30_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-10_fn4" href="xhtml/31_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-11_fn1" href="xhtml/32_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-11_fn2" href="xhtml/33_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-11_fn3" href="xhtml/34_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-12_fn1" href="xhtml/35_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-12_fn2" href="xhtml/36_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-12_fn3" href="xhtml/37_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-12_fn4" href="xhtml/38_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-12_fn5" href="xhtml/39_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-12_fn6" href="xhtml/40_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-12_fn7" href="xhtml/41_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-12_fn8" href="xhtml/42_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-12_fn9" href="xhtml/43_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-12_fn10" href="xhtml/44_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-12_fn11" href="xhtml/45_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-12_fn12" href="xhtml/46_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-13_fn1" href="xhtml/47_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-13_fn2" href="xhtml/48_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-13_fn3" href="xhtml/49_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-15_fn1" href="xhtml/50_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-15_fn2" href="xhtml/51_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-15_fn3" href="xhtml/52_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-15_fn4" href="xhtml/53_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-15_fn5" href="xhtml/54_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-16_fn1" href="xhtml/55_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-16_fn2" href="xhtml/56_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-17_fn1" href="xhtml/57_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-18_fn1" href="xhtml/58_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-18_fn2" href="xhtml/59_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-18_fn3" href="xhtml/60_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-19_fn1" href="xhtml/61_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-19_fn2" href="xhtml/62_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9780525522249_EPUB-19_fn3" href="xhtml/63_Footnote.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2-png" href="image/2.png" media-type="image/png"/>
+    <item id="xpage_47_2-png" href="image/page_47_2.png" media-type="image/png"/>
+    <item id="Shift-BoldItalic.otf" href="font/Shift-BoldItalic.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="Shift-Light.otf" href="font/Shift-Light.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="next-reads.xhtml" href="xhtml/next-reads.xhtml" media-type="application/xhtml+xml"/>
+    <item id="next-reads_logo.jpg" href="image/next-reads_logo.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover"/>
+    <itemref idref="x9780525522249_EPUB"/>
+    <itemref idref="x9780525522249_EPUB-1"/>
+    <itemref idref="x9780525522249_EPUB-2"/>
+    <itemref idref="x9780525522249_EPUB-3"/>
+    <itemref idref="x9780525522249_EPUB-4"/>
+    <itemref idref="x9780525522249_EPUB-5"/>
+    <itemref idref="x9780525522249_EPUB-6"/>
+    <itemref idref="x9780525522249_EPUB-7"/>
+    <itemref idref="x9780525522249_EPUB-8"/>
+    <itemref idref="x9780525522249_EPUB-9"/>
+    <itemref idref="x9780525522249_EPUB-10"/>
+    <itemref idref="x9780525522249_EPUB-11"/>
+    <itemref idref="x9780525522249_EPUB-12"/>
+    <itemref idref="x9780525522249_EPUB-13"/>
+    <itemref idref="x9780525522249_EPUB-14"/>
+    <itemref idref="x9780525522249_EPUB-15"/>
+    <itemref idref="x9780525522249_EPUB-16"/>
+    <itemref idref="x9780525522249_EPUB-17"/>
+    <itemref idref="x9780525522249_EPUB-18"/>
+    <itemref idref="x9780525522249_EPUB-19"/>
+    <itemref idref="x9780525522249_EPUB-20"/>
+    <itemref idref="x9780525522249_EPUB-21"/>
+    <itemref idref="x9780525522249_EPUB-22"/>
+    <itemref idref="x9780525522249_EPUB-23"/>
+    <itemref idref="x9780525522249_EPUB-6_fn1" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-9_fn1" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-10_fn1" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-10_fn2" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-10_fn3" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-10_fn4" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-11_fn1" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-11_fn2" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-11_fn3" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-12_fn1" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-12_fn2" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-12_fn3" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-12_fn4" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-12_fn5" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-12_fn6" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-12_fn7" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-12_fn8" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-12_fn9" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-12_fn10" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-12_fn11" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-12_fn12" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-13_fn1" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-13_fn2" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-13_fn3" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-15_fn1" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-15_fn2" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-15_fn3" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-15_fn4" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-15_fn5" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-16_fn1" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-16_fn2" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-17_fn1" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-18_fn1" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-18_fn2" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-18_fn3" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-19_fn1" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-19_fn2" linear="no"/>
+    <itemref idref="x9780525522249_EPUB-19_fn3" linear="no"/>
+    <itemref idref="next-reads.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="xhtml/01_Cover.xhtml"/>
+    <reference type="toc" title="Table of Contents" href="xhtml/07_Contents.xhtml#_idParaDest-5"/>
+    <reference type="text" title="Text" href="xhtml/08_Chapter_0_Why_Focus_M.xhtml"/>
+    <reference type="start" title="Start" href="xhtml/08_Chapter_0_Why_Focus_M.xhtml"/>
+  </guide>
+</package>
