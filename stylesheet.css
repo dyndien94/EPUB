@@ -1,0 +1,737 @@
+.bggray {
+    background-color: #EAEBEB;
+    border-radius: 1em;
+    display: block;
+    text-indent: 0;
+    padding: 1em;
+    margin: 1.2em 0
+    }
+.bggray1 {
+    background-color: #EAEBEB;
+    border-radius: 1em;
+    display: block;
+    text-indent: 0;
+    padding: 1em 1em 2em;
+    margin: 1.2em 0
+    }
+.bggray2 {
+    background-color: #EAEBEB;
+    border-radius: 1em;
+    display: block;
+    text-indent: 0;
+    padding: 1em 1em 5em;
+    margin: 1.2em 0
+    }
+.block {
+    display: block;
+    orphans: 0;
+    text-indent: 0;
+    widows: 0;
+    margin: 1em 2em 1em 1.5em
+    }
+.borderb {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: inherit;
+    padding: 0.1em;
+    border-bottom: black solid 0.1em
+    }
+.bullg {
+    display: block;
+    orphans: 0;
+    text-indent: 0;
+    widows: 0;
+    margin: 0 0 0 3em
+    }
+.bullga {
+    display: block;
+    orphans: 0;
+    text-indent: 0;
+    widows: 0;
+    margin: 1.2em 0 0 3em
+    }
+.bulll {
+    display: block;
+    font-family: "MyriadPro", sans-serif;
+    font-size: 0.75em;
+    line-height: 150%;
+    orphans: 0;
+    text-align: left;
+    text-indent: 0;
+    widows: 0;
+    margin: 0 0 0 1em
+    }
+.bullr {
+    display: block;
+    font-family: "MyriadPro", sans-serif;
+    font-size: 0.75em;
+    line-height: 150%;
+    orphans: 0;
+    text-align: right;
+    text-indent: 0;
+    widows: 0;
+    margin: 0
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 140%;
+    text-align: justify;
+    padding: 0.75em 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    text-decoration: none
+    }
+.calibre10 {
+    display: block
+    }
+.calibre11 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: 0.3em
+    }
+.calibre12 {
+    font-size: 0.77778em;
+    line-height: normal;
+    vertical-align: 0.3em
+    }
+.calibre13 {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    page-break-inside: auto;
+    text-indent: 0
+    }
+.calibre14 {
+    display: table-column-group
+    }
+.calibre15 {
+    display: table-column
+    }
+.calibre16 {
+    display: table-row;
+    vertical-align: middle
+    }
+.calibre17 {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: inherit;
+    padding: 0.1em
+    }
+.calibre18 {
+    font-size: 0.75em
+    }
+.calibre2 {
+    font-style: italic
+    }
+.calibre3 {
+    display: block;
+    font-size: 1em;
+    oeb-column-number: 1;
+    text-align: center;
+    padding: 0;
+    margin: 0 5pt
+    }
+.calibre4 {
+    display: block
+    }
+.calibre5 {
+    height: 98%;
+    width: auto
+    }
+.calibre6 {
+    font-weight: bold
+    }
+.calibre7 {
+    font-size: 1em
+    }
+.calibre8 {
+    height: auto;
+    max-height: 100%;
+    max-width: 100%;
+    width: auto
+    }
+.calibre9 {
+    height: 96%;
+    max-height: 100%;
+    max-width: 100%;
+    width: auto
+    }
+.cap {
+    display: block;
+    font-family: "MyriadPro_Semibold", sans-serif;
+    font-size: 0.75em;
+    line-height: 150%;
+    orphans: 0;
+    text-align: center;
+    widows: 0;
+    margin: 1em 0 0.1em
+    }
+.center {
+    display: block;
+    orphans: 0;
+    text-align: center;
+    widows: 0;
+    margin: 0 0 1em
+    }
+.centerf {
+    display: block;
+    font-family: "MyriadPro", sans-serif;
+    font-size: 0.75em;
+    line-height: 150%;
+    orphans: 0;
+    text-align: center;
+    text-indent: 0;
+    widows: 0;
+    margin: 35% 0 0
+    }
+.centerf1 {
+    display: block;
+    font-family: "MyriadPro", sans-serif;
+    font-size: 0.75em;
+    line-height: 150%;
+    orphans: 0;
+    text-align: center;
+    text-indent: 0;
+    widows: 0;
+    margin: 0.6em 0 0
+    }
+.centerm {
+    display: block;
+    font-family: "MyriadPro_Semibold", sans-serif;
+    font-size: 0.75em;
+    line-height: 150%;
+    orphans: 0;
+    text-align: center;
+    text-indent: 0;
+    widows: 0;
+    margin: 0.5em 0 0
+    }
+.centerm1 {
+    display: block;
+    font-family: "MyriadPro", sans-serif;
+    font-size: 0.75em;
+    line-height: 150%;
+    orphans: 0;
+    text-align: center;
+    text-indent: 0;
+    widows: 0;
+    margin: 0.1em 0 0
+    }
+.ch-image {
+    display: block;
+    orphans: 0;
+    text-align: center;
+    text-indent: 0;
+    widows: 0;
+    margin: 1em 0 0.5em
+    }
+.copy {
+    display: block;
+    font-size: 0.75em;
+    orphans: 0;
+    text-align: center;
+    widows: 0;
+    margin: 0
+    }
+.copya {
+    display: block;
+    font-size: 0.75em;
+    orphans: 0;
+    text-align: center;
+    widows: 0;
+    margin: 0.5em 0 0
+    }
+.copyi {
+    display: block;
+    orphans: 0;
+    text-align: center;
+    widows: 0;
+    margin: 0.5em 0
+    }
+.fm {
+    display: block;
+    orphans: 0;
+    text-align: left;
+    text-indent: 0;
+    widows: 0;
+    margin: 0
+    }
+.fm-noindent {
+    display: block;
+    font-size: 0.75em;
+    orphans: 0;
+    text-indent: 0;
+    widows: 0;
+    margin: 1.2em 0 0
+    }
+.fma {
+    display: block;
+    orphans: 0;
+    text-align: left;
+    text-indent: 0;
+    widows: 0;
+    margin: 1.2em 0 0
+    }
+.fmc {
+    display: block;
+    font-size: 1.41667em;
+    line-height: 1.2;
+    orphans: 0;
+    text-align: center;
+    widows: 0;
+    margin: 1em 0 1.5em
+    }
+.fmi {
+    display: block;
+    orphans: 0;
+    text-align: left;
+    text-indent: 1.5em;
+    widows: 0;
+    margin: 0
+    }
+.fmr {
+    display: block;
+    font-size: 0.75em;
+    line-height: 150%;
+    orphans: 0;
+    text-align: right;
+    widows: 0;
+    margin: 0.2em 0 1em 2em
+    }
+.footnote {
+    display: block;
+    font-family: "MyriadPro", sans-serif;
+    font-size: 0.75em;
+    line-height: 140%;
+    orphans: 0;
+    text-align: left;
+    text-indent: -0.7em;
+    widows: 0;
+    margin: 0 0 0 0.7em
+    }
+.group {
+    display: block;
+    page-break-inside: avoid;
+    margin: 0 0 0.1em
+    }
+.h {
+    display: block;
+    font-family: "MyriadPro", sans-serif;
+    font-size: 1.83333em;
+    font-weight: normal;
+    hyphens: none;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0 2.5em
+    }
+.h1 {
+    display: block;
+    font-family: "MyriadPro", sans-serif;
+    font-size: 1.125em;
+    font-weight: normal;
+    hyphens: none;
+    line-height: 130%;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0 0.3em
+    }
+.h2 {
+    display: block;
+    font-family: "MyriadPro_Semibold", sans-serif;
+    font-size: 1em;
+    font-weight: normal;
+    hyphens: none;
+    line-height: 130%;
+    text-align: left;
+    text-indent: 0;
+    margin: 1em 0 0.3em
+    }
+.h2-b {
+    display: block;
+    font-family: "MyriadPro_Semibold", sans-serif;
+    font-size: 1.125em;
+    font-weight: normal;
+    hyphens: none;
+    line-height: 120%;
+    text-align: left;
+    text-indent: 0;
+    margin: 1em 0 0.5em
+    }
+.h2-p {
+    display: block;
+    font-family: "MyriadPro_Light", sans-serif;
+    font-size: 2em;
+    font-weight: normal;
+    hyphens: none;
+    line-height: 110%;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0 1.5em
+    }
+.h2a {
+    display: block;
+    font-family: "MyriadPro", sans-serif;
+    font-size: 1em;
+    font-weight: normal;
+    hyphens: none;
+    letter-spacing: 0.1em;
+    line-height: 130%;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0 3em
+    }
+.h2b {
+    display: block;
+    font-family: "MyriadPro", sans-serif;
+    font-size: 1.83333em;
+    font-weight: normal;
+    hyphens: none;
+    letter-spacing: 0.1em;
+    line-height: 140%;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0 2.5em
+    }
+.h2g {
+    display: block;
+    font-family: "MyriadPro_Semibold", sans-serif;
+    font-size: 1.66667em;
+    font-weight: normal;
+    hyphens: none;
+    line-height: 120%;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.h2p {
+    display: block;
+    font-family: "MyriadPro_Semibold", sans-serif;
+    font-size: 1em;
+    font-weight: normal;
+    hyphens: none;
+    letter-spacing: 0.2em;
+    line-height: 120%;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0 2.5em
+    }
+.h2p1 {
+    display: block;
+    font-family: "MyriadPro_Light", sans-serif;
+    font-size: 2em;
+    font-weight: normal;
+    hyphens: none;
+    line-height: 110%;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0 0.5em
+    }
+.h3g {
+    display: block;
+    font-family: "MyriadPro_Semibold", sans-serif;
+    font-size: 1.41667em;
+    font-weight: normal;
+    hyphens: none;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.h4a {
+    display: block;
+    font-family: "MyriadPro_Semibold", sans-serif;
+    font-size: 1em;
+    font-weight: normal;
+    hyphens: none;
+    line-height: 130%;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 0 0.3em
+    }
+.image {
+    display: block;
+    orphans: 0;
+    text-align: center;
+    text-indent: 0;
+    widows: 0;
+    margin: 1em 0
+    }
+.images {
+    float: left;
+    margin: 0.1em 0.5em 0 0
+    }
+.indent {
+    display: block;
+    orphans: 0;
+    text-indent: 1.5em;
+    widows: 0;
+    margin: 0
+    }
+.indenta {
+    display: block;
+    orphans: 0;
+    text-indent: 1.5em;
+    widows: 0;
+    margin: 1.2em 0 0
+    }
+.indexmain {
+    display: block;
+    font-size: 0.75em;
+    font-weight: bold;
+    line-height: 150%;
+    orphans: 0;
+    text-indent: 0;
+    widows: 0;
+    margin: 1em 0 0
+    }
+.indexmain1 {
+    display: block;
+    font-size: 0.75em;
+    line-height: 150%;
+    orphans: 0;
+    text-indent: -1.5em;
+    widows: 0;
+    margin: 0 0 0 1.5em
+    }
+.indexsub {
+    display: block;
+    font-size: 0.75em;
+    line-height: 150%;
+    orphans: 0;
+    text-indent: -1.5em;
+    widows: 0;
+    margin: 0 0 0 3em
+    }
+.inline {
+    height: auto;
+    max-height: 100%;
+    max-width: 100%;
+    vertical-align: middle;
+    width: auto
+    }
+.noindent {
+    display: block;
+    orphans: 0;
+    text-indent: 0;
+    widows: 0;
+    margin: 0
+    }
+.noindenta {
+    display: block;
+    orphans: 0;
+    text-indent: 0;
+    widows: 0;
+    margin: 1.2em 0 0
+    }
+.noindentm {
+    display: block;
+    font-family: "MyriadPro", sans-serif;
+    font-size: 0.75em;
+    line-height: 150%;
+    orphans: 0;
+    text-indent: 0;
+    widows: 0;
+    margin: 1.2em 0 0
+    }
+.note {
+    display: block;
+    font-size: 0.75em;
+    line-height: 150%;
+    orphans: 0;
+    text-indent: 0;
+    widows: 0;
+    margin: 0.1em 0 0 2em
+    }
+.note1s {
+    float: left;
+    margin: 0 0 0 -1.5em
+    }
+.note2s {
+    float: left;
+    margin: 0 0 0 -2em
+    }
+.num {
+    display: block;
+    orphans: 0;
+    text-indent: 0;
+    widows: 0;
+    margin: 0 0 0 1.8em
+    }
+.nums {
+    float: left;
+    margin: 0 0 0 -1.2em
+    }
+.sb {
+    display: block;
+    text-indent: 0;
+    padding: 1em;
+    border: black solid 0.1em;
+    margin: 1.2em 0
+    }
+.sb-note {
+    display: block;
+    font-size: 0.75em;
+    line-height: 150%;
+    orphans: 0;
+    text-indent: 0;
+    widows: 0;
+    margin: 0 0 1em
+    }
+.sb-text {
+    display: block;
+    font-family: "MyriadPro", sans-serif;
+    font-size: 0.75em;
+    line-height: 150%;
+    orphans: 0;
+    text-indent: 0;
+    widows: 0;
+    margin: 0 0 0.1em
+    }
+.sb-text1 {
+    display: block;
+    font-family: "MyriadPro", sans-serif;
+    font-size: 0.75em;
+    line-height: 150%;
+    orphans: 0;
+    text-indent: 1.5em;
+    widows: 0;
+    margin: 0 0 0.1em
+    }
+.sb-texta {
+    display: block;
+    font-family: "MyriadPro", sans-serif;
+    font-size: 0.75em;
+    line-height: 150%;
+    orphans: 0;
+    text-indent: 0;
+    widows: 0;
+    margin: 1.2em 0 0.1em
+    }
+.sbb {
+    display: block;
+    padding: 1em;
+    border: black solid 0.1em;
+    margin: 1.5em 0
+    }
+.sbb-h {
+    display: block;
+    font-family: "MyriadPro_Semibold", sans-serif;
+    font-size: 1em;
+    line-height: 120%;
+    orphans: 0;
+    text-align: left;
+    text-indent: 0;
+    widows: 0;
+    margin: 0.5em 0
+    }
+.sbbh {
+    display: block;
+    font-family: "MyriadPro_Semibold", sans-serif;
+    font-size: 1.41667em;
+    line-height: 120%;
+    orphans: 0;
+    text-align: left;
+    text-indent: 0;
+    widows: 0;
+    margin: 0.2em 0 0
+    }
+.sbtext {
+    display: block;
+    font-family: "MyriadPro", sans-serif;
+    font-size: 0.75em;
+    orphans: 0;
+    text-align: left;
+    text-indent: 0;
+    widows: 0;
+    margin: 0
+    }
+.sbull {
+    display: block;
+    font-size: 0.75em;
+    orphans: 0;
+    text-indent: 0;
+    widows: 0;
+    margin: 0.2em 0 0 1.5em
+    }
+.sbulla {
+    display: block;
+    font-size: 0.75em;
+    orphans: 0;
+    text-indent: 0;
+    widows: 0;
+    margin: 0.5em 0 0 1.5em
+    }
+.sunderline {
+    text-decoration: underline
+    }
+.tab-textr {
+    display: block;
+    font-family: "MyriadPro", sans-serif;
+    font-size: 0.75em;
+    orphans: 0;
+    text-align: right;
+    text-indent: 0;
+    widows: 0;
+    margin: 0
+    }
+.tab-textr1 {
+    display: block;
+    font-family: "MyriadPro", sans-serif;
+    font-size: 0.75em;
+    line-height: 140%;
+    orphans: 0;
+    text-align: left;
+    text-indent: 0;
+    widows: 0;
+    margin: 0 0 0 1em
+    }
+.toc {
+    display: block;
+    orphans: 0;
+    text-indent: 0;
+    widows: 0;
+    margin: 0 0 0.1em 1.5em
+    }
+.toc-ch {
+    display: block;
+    orphans: 0;
+    text-indent: -2em;
+    widows: 0;
+    margin: 0 0 0 2.5em
+    }
+.toc-ch1 {
+    display: block;
+    orphans: 0;
+    text-indent: -2em;
+    widows: 0;
+    margin: 0 0 0 2em
+    }
+.toc-cha {
+    display: block;
+    orphans: 0;
+    text-indent: 0;
+    widows: 0;
+    margin: 0 0 1.2em 1.5em
+    }
+.toc-part {
+    display: block;
+    font-weight: bold;
+    orphans: 0;
+    text-indent: 0;
+    widows: 0;
+    margin: 1em 0 0.2em 1.5em
+    }
+.topbot {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    page-break-inside: auto;
+    text-indent: 0;
+    border-bottom: black solid 0.1em;
+    margin: 0.5em 0
+    }

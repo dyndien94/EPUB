@@ -1,0 +1,52 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "MyriadPro";
+    src: url(OEBPS/Fonts/MyriadPro_regular.ttf);
+    font-style: normal;
+    font-weight: normal
+    }
+@font-face {
+    font-family: "MyriadPro";
+    src: url(OEBPS/Fonts/MyriadPro_italic_bold.ttf);
+    font-style: italic;
+    font-weight: bold
+    }
+@font-face {
+    font-family: "MyriadPro";
+    src: url(OEBPS/Fonts/MyriadPro_italico.ttf);
+    font-style: italic;
+    font-weight: normal
+    }
+@font-face {
+    font-family: "MyriadPro";
+    src: url(OEBPS/Fonts/MyriadPro_bold.ttf);
+    font-style: normal;
+    font-weight: bold
+    }
+@font-face {
+    font-family: "MyriadPro_Semibold";
+    src: url(OEBPS/Fonts/MyriadPro_Semibold.ttf);
+    font-style: normal;
+    font-weight: bold
+    }
+@font-face {
+    font-family: "MyriadPro_Semibold";
+    src: url(OEBPS/Fonts/MyriadPro_Semibold_Italic.ttf);
+    font-style: italic;
+    font-weight: bold
+    }
+@font-face {
+    font-family: "MyriadPro_Light";
+    src: url(OEBPS/Fonts/MyriadPro_Light.ttf);
+    font-style: normal;
+    font-weight: normal
+    }
+@font-face {
+    font-family: "MyriadPro_Light";
+    src: url(OEBPS/Fonts/MyriadPro_Light_Italic.ttf);
+    font-style: italic;
+    font-weight: normal
+    }
